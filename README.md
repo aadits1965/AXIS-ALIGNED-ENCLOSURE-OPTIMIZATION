@@ -1,1 +1,2 @@
 # AXIS-ALIGNED-ENCLOSURE-OPTIMIZATION
+Problem Statement-Your nation has begun urban redevelopment in the futuristic mega-city of Axion Prime, a vast, gridstructured metropolis built on top of ancienttechnology. The city is populated with various buildings scattered across the land, each associated with a cost — a monetary burden for including that building within a regulated zone.As the chief architect of Axion Prime's zoning council, your task is to design a containment boundary — a simple, closed polygon — to enclose atleast K buildings
